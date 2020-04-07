@@ -44,6 +44,10 @@ nav a:focus {
   outline: 3px solid white;
 }
 
+.news ol li a {
+  color: #113c00;
+}
+
 .about {
   position: relative;
 }
@@ -85,10 +89,6 @@ td {
 .footer {
   background-color: #113c00;
   color: #fff;
-}
-
-table caption {
-  display: none;
 }
 
 @media only screen and (min-width: 35em) {
