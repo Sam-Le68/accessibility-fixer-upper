@@ -97,8 +97,8 @@ td {
 
 .nav a:hover,
 .nav a:focus {
-background-color: #fff;
-color: #113c00;
+  background-color: #fff;
+  color: #113c00;
 }
 
 @media only screen and (min-width: 35em) {
